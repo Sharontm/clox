@@ -1,0 +1,2 @@
+# CLox
+This repository contains my implementation of CLox, a programming language interpreter using C, based on the concepts and guidelines presented in the book 'Crafting Interpreters' by Robert Nystrom.
