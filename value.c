@@ -30,4 +30,3 @@ void printValue(Value value) {
   printf("%g", value);
 }
 
-//value of constants and variables
